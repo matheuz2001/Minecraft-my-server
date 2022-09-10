@@ -1,765 +1,153 @@
-[15:32:05] [ServerMain/INFO]: Building unoptimized datafixer
-[15:32:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:32:14] [ServerMain/INFO]: Loaded 7 recipes
-[15:32:14] [ServerMain/INFO]: Loaded 1179 advancements
-[15:32:18] [Server thread/INFO]: Starting minecraft server version 1.19
-[15:32:18] [Server thread/INFO]: Loading properties
-[15:32:18] [Server thread/INFO]: Default game type: SURVIVAL
-[15:32:18] [Server thread/INFO]: Generating keypair
-[15:32:19] [Server thread/INFO]: Starting Minecraft server on *:50301
-[15:32:19] [Server thread/INFO]: Using epoll channel type
-[15:32:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:32:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:32:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:32:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:32:19] [Server thread/INFO]: Preparing level "world"
-[15:32:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[15:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[15:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[15:33:42] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[15:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[15:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[15:33:44] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[15:33:45] [Server thread/INFO]: Time elapsed: 66084 ms
-[15:33:45] [Server thread/INFO]: Done (85.545s)! For help, type "help"
-[15:34:48] [Server thread/INFO]: jpegslash[/177.64.193.110:62632] logged in with entity id 118 at (370.41743810183186, 136.0, 369.06950098116033)
-[15:34:48] [Server thread/INFO]: jpegslash joined the game
-[15:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
-[15:34:55] [Server thread/INFO]: Matheus[/177.64.193.110:62643] logged in with entity id 127 at (367.5, 135.0, 364.5)
-[15:34:56] [Server thread/INFO]: Matheus joined the game
-[15:34:57] [Server thread/INFO]: [@: Added Matheus to team [Survivals]]
-[15:34:57] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:34:57] [Server thread/INFO]: [@: Added Matheus to team [Survivals]]
-[15:34:57] [Server thread/INFO]: [@: Added 0 to [Equipe] for Matheus (now 0)]
-[15:35:14] [Server thread/INFO]: [jpegslash: Set own game mode to Survival Mode]
-[15:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14161ms or 283 ticks behind
-[15:40:56] [Server thread/INFO]: Matheus lost connection: Disconnected
-[15:40:56] [Server thread/INFO]: Matheus left the game
-[15:41:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[15:42:21] [Server thread/INFO]: ULTRA-TROLHA[/177.64.193.110:64092] logged in with entity id 813 at (369.2667967651174, 159.61075781480923, 367.372588474071)
-[15:42:21] [Server thread/INFO]: ULTRA-TROLHA joined the game
-[15:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[15:42:36] [Server thread/INFO]: [ULTRA-TROLHA: Set own game mode to Creative Mode]
-[15:42:48] [Server thread/INFO]: [ULTRA-TROLHA: Set own game mode to Survival Mode]
-[15:43:14] [Server thread/INFO]: [jpegslash: Reset [Equipe] for ULTRA-TROLHA]
-[15:43:14] [Server thread/INFO]: [@: Added ULTRA-TROLHA to team [Survivals]]
-[15:43:14] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:43:15] [Server thread/INFO]: [@: Added ULTRA-TROLHA to team [Survivals]]
-[15:43:15] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:43:15] [Server thread/INFO]: [@: Added ULTRA-TROLHA to team [Survivals]]
-[15:43:15] [Server thread/INFO]: [@: Added 0 to [Equipe] for ULTRA-TROLHA (now 0)]
-[15:43:54] [Server thread/INFO]: ULTRA-TROLHA lost connection: Disconnected
-[15:43:54] [Server thread/INFO]: ULTRA-TROLHA left the game
-[15:44:13] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[15:44:19] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[15:44:30] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[15:44:40] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[15:45:39] [Server thread/INFO]: [jpegslash: Removed jpegslash from any team]
-[15:45:52] [Server thread/INFO]: [jpegslash: Removed ULTRA-TROLHA from any team]
-[15:45:56] [Server thread/INFO]: ULTRA-TROLHA[/177.64.193.110:64128] logged in with entity id 1209 at (367.01333446813067, 135.0, 365.743811717871)
-[15:45:56] [Server thread/INFO]: ULTRA-TROLHA joined the game
-[15:46:12] [Server thread/INFO]: [jpegslash: Reset [Equipe] for ULTRA-TROLHA]
-[15:46:13] [Server thread/INFO]: [@: Added jpegslash to team [Survivals]]
-[15:46:13] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:46:13] [Server thread/INFO]: [@: Added ULTRA-TROLHA to team [Survivals]]
-[15:46:13] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:46:13] [Server thread/INFO]: [@: Added jpegslash to team [Survivals]]
-[15:46:13] [Server thread/INFO]: [@: Added 0 to [Equipe] for jpegslash (now 0)]
-[15:46:13] [Server thread/INFO]: [@: Added jpegslash to team [Survivals]]
-[15:46:13] [Server thread/INFO]: [@: Added 0 to [Equipe] for ULTRA-TROLHA (now 0)]
-[15:46:59] [Server thread/INFO]: [jpegslash: Removed 2 members from any team]
-[15:47:05] [Server thread/INFO]: [jpegslash: Reset [Equipe] for ULTRA-TROLHA]
-[15:47:05] [Server thread/INFO]: [@: Added 2 members to team [Survivals]]
-[15:47:05] [Server thread/INFO]: [@: Added 0 to [Equipe] for 2 entities]
-[15:47:12] [Server thread/INFO]: [jpegslash: Removed ULTRA-TROLHA from any team]
-[15:47:18] [Server thread/INFO]: [jpegslash: Reset [Equipe] for ULTRA-TROLHA]
-[15:47:18] [Server thread/INFO]: [@: Added 2 members to team [Survivals]]
-[15:47:18] [Server thread/INFO]: [@: Added 0 to [Equipe] for 2 entities]
-[15:49:41] [Server thread/INFO]: Made ULTRA-TROLHA no longer a server operator
-[15:49:59] [Server thread/INFO]: Made ULTRA-TROLHA a server operator
-[15:50:04] [Server thread/INFO]: ULTRA-TROLHA lost connection: Disconnected
-[15:50:04] [Server thread/INFO]: ULTRA-TROLHA left the game
-[15:51:56] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[15:52:10] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[15:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[15:53:33] [Server thread/INFO]: jpegslash lost connection: Disconnected
-[15:53:33] [Server thread/INFO]: jpegslash left the game
-[16:24:34] [Server thread/INFO]: jpegslash[/177.64.193.110:60928] logged in with entity id 2408 at (676.6167057802447, 116.49390748022948, 211.30744757839096)
-[16:24:34] [Server thread/INFO]: jpegslash joined the game
-[16:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
-[16:24:52] [Server thread/WARN]: jpegslash moved too quickly! 6.340553981218932,7.9828833389682075,-0.9486690581115056
-[16:24:54] [Server thread/WARN]: jpegslash moved too quickly! 6.3651402345241195,7.297507693697739,-3.0638023526163636
-[16:24:58] [Server thread/WARN]: jpegslash moved too quickly! 4.144929092332859,4.429046529663893,-8.090220028007082
-[16:25:03] [Server thread/WARN]: jpegslash moved too quickly! -3.904070137828853,6.000000031220225,-7.571918362014941
-[16:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10339ms or 206 ticks behind
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:21] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:22] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:23] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:24] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:25] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:26] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:27] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:28] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:29] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:30] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:31] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:32] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:33] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:34] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:35] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:36] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:27:37] [Server thread/INFO]: [@: Applied effect Mining Fatigue to jpegslash]
-[16:28:03] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:34:32] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:34:49] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3140ms or 62 ticks behind
-[16:36:38] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:36:49] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25978ms or 519 ticks behind
-[16:39:24] [Server thread/WARN]: jpegslash moved too quickly! -8.820401544675406,0.0625,-4.740327114813795
-[16:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
-[16:43:14] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[16:43:14] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[16:43:16] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
-[16:43:22] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:45:02] [Server thread/INFO]: jpegslash fell out of the world
-[16:45:02] [Server thread/INFO]: [jpegslash: Killed jpegslash]
-[16:45:46] [Server thread/INFO]: [jpegslash: Reset [Mortes] for jpegslash]
-[16:47:06] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:47:15] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:47:26] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:47:38] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:47:39] [Server thread/INFO]: [jpegslash: Set own game mode to Spectator Mode]
-[16:47:57] [Server thread/INFO]: [jpegslash: Set own game mode to Creative Mode]
-[16:48:02] [Server thread/WARN]: jpegslash moved too quickly! 2.8572476900612855,0.0,-10.198514787347989
-[16:48:50] [Server thread/INFO]: jpegslash lost connection: Disconnected
-[16:48:50] [Server thread/INFO]: jpegslash left the game
-[16:48:54] [Server thread/INFO]: Stopping the server
-[16:48:54] [Server thread/INFO]: Stopping server
-[16:48:54] [Server thread/INFO]: Saving players
-[16:48:54] [Server thread/INFO]: Saving worlds
-[16:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[16:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[16:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[16:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:04:09] [ServerMain/INFO]: Building unoptimized datafixer
+[15:04:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:04:19] [ServerMain/INFO]: Loaded 7 recipes
+[15:04:19] [ServerMain/INFO]: Loaded 1179 advancements
+[15:04:24] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:04:24] [Server thread/INFO]: Loading properties
+[15:04:24] [Server thread/INFO]: Default game type: SURVIVAL
+[15:04:24] [Server thread/INFO]: Generating keypair
+[15:04:25] [Server thread/INFO]: Starting Minecraft server on *:50301
+[15:04:25] [Server thread/INFO]: Using epoll channel type
+[15:04:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:04:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:04:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:04:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:04:25] [Server thread/INFO]: Preparing level "world"
+[15:04:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[15:05:42] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[15:05:43] [Server thread/INFO]: Time elapsed: 58744 ms
+[15:05:43] [Server thread/INFO]: Done (77.806s)! For help, type "help"
+[15:05:51] [Server thread/INFO]: Matheus[/177.64.193.110:52408] logged in with entity id 56 at (367.5, 135.0, 364.5)
+[15:05:52] [Server thread/INFO]: Matheus joined the game
+[15:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[15:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[15:06:13] [Server thread/INFO]: Made Matheus a server operator
+[15:06:21] [Server thread/INFO]: [Matheus: Set own game mode to Creative Mode]
+[15:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:21:34] [Server thread/INFO]: Stopping the server
+[15:21:34] [Server thread/INFO]: Stopping server
+[15:21:34] [Server thread/INFO]: Saving players
+[15:21:34] [Server thread/INFO]: Saving worlds
+[15:21:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:21:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

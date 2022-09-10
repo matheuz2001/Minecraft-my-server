@@ -1,7 +1,16 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:birch_forest": "2022-09-07 15:34:57 -0400"
+      "minecraft:birch_forest": "2022-09-07 15:34:57 -0400",
+      "minecraft:dark_forest": "2022-09-09 15:11:26 -0400",
+      "minecraft:sparse_jungle": "2022-09-09 15:10:57 -0400",
+      "minecraft:river": "2022-09-09 15:10:01 -0400",
+      "minecraft:grove": "2022-09-09 15:06:27 -0400",
+      "minecraft:forest": "2022-09-09 15:09:46 -0400",
+      "minecraft:frozen_peaks": "2022-09-09 15:06:31 -0400",
+      "minecraft:old_growth_birch_forest": "2022-09-09 15:11:04 -0400",
+      "minecraft:savanna": "2022-09-09 15:09:53 -0400",
+      "minecraft:plains": "2022-09-09 15:09:52 -0400"
     },
     "done": false
   },
