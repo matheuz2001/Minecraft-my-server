@@ -5,6 +5,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-09-21 13:04:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-21 13:03:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-09-21 13:04:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-21 13:03:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2022-09-03 15:49:12 -0300",
@@ -28,6 +52,15 @@
       "minecraft:meadow": "2022-09-03 16:03:07 -0300",
       "minecraft:savanna": "2022-09-03 15:48:18 -0300",
       "minecraft:plains": "2022-09-03 15:48:33 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-09-21 13:03:41 -0300",
+      "minecraft:nether_wastes": "2022-09-21 13:03:57 -0300",
+      "minecraft:soul_sand_valley": "2022-09-21 13:03:47 -0300",
+      "minecraft:warped_forest": "2022-09-21 13:05:21 -0300"
     },
     "done": false
   },
